@@ -1,8 +1,8 @@
 package com.unknown.webapp.controller;
 
-import org.appfuse.Constants;
-import org.appfuse.dao.SearchException;
-import org.appfuse.service.UserManager;
+import com.unknown.Constants;
+import com.unknown.dao.SearchException;
+import com.unknown.service.UserManager;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ExtendedModelMap;

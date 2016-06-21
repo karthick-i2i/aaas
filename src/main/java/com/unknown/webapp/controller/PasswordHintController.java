@@ -2,9 +2,9 @@ package com.unknown.webapp.controller;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
-import org.appfuse.model.User;
-import org.appfuse.service.MailEngine;
-import org.appfuse.service.UserManager;
+import com.unknown.model.User;
+import com.unknown.service.MailEngine;
+import com.unknown.service.UserManager;
 import com.unknown.webapp.util.RequestUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.MessageSource;

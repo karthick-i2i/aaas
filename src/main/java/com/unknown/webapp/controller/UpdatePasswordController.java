@@ -5,7 +5,7 @@ import java.util.Locale;
 import javax.servlet.http.HttpServletRequest;
 
 import org.apache.commons.lang.StringUtils;
-import org.appfuse.model.User;
+import com.unknown.model.User;
 import com.unknown.webapp.util.RequestUtil;
 import org.springframework.security.access.AccessDeniedException;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
